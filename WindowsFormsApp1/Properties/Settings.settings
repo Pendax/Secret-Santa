@@ -1,0 +1,100 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Henning" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Rikke" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Frederik" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Karoline" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Michelle" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Mogens" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Lise" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Kristian" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Simon" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Janni" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Per" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Maj" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Niklas" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Mikkel" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Arne" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Uddelt" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="HenningMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Henninglai@gmail.com</Value>
+    </Setting>
+    <Setting Name="RikkeMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Rila@viborg.dk
+</Value>
+    </Setting>
+    <Setting Name="FrederikMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">frederik-lai@outlook.com</Value>
+    </Setting>
+    <Setting Name="KarolineMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">karolinela1903@hotmail.com</Value>
+    </Setting>
+    <Setting Name="AndreasMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Alaiandersen@gmail.com</Value>
+    </Setting>
+    <Setting Name="MogensMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mo.holm@live.dk</Value>
+    </Setting>
+    <Setting Name="LiseMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="KristianMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SimonMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bassenoir@hotmail.com</Value>
+    </Setting>
+    <Setting Name="JannieMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Janni210294@gmail.com</Value>
+    </Setting>
+    <Setting Name="PerMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pma@aaservice.dk</Value>
+    </Setting>
+    <Setting Name="MajMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Missionmaj@yahoo.dk</Value>
+    </Setting>
+    <Setting Name="NiklasMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Meldgaard0409@gmail.com</Value>
+    </Setting>
+    <Setting Name="MikkelMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Meldgaardmikkel@gmail.com</Value>
+    </Setting>
+    <Setting Name="ArneMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
